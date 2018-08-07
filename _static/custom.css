@@ -1,0 +1,11 @@
+@import url("alabaster.css");
+
+body {
+    min-width: 100px;
+    max-width: none;
+}
+
+div.body{
+    min-width: 100px;
+    max-width: none;
+}
